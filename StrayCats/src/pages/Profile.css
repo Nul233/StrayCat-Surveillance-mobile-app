@@ -1,0 +1,41 @@
+.no-image-text {
+    margin-top: 20px;
+
+ 
+}
+
+.profile-avatar {
+    margin-left: 165px
+
+}
+
+.faq{
+    width: 90%;
+    height:50px;
+    margin-left:20px;
+    margin-top: 70px;
+}
+
+.usermanual{
+    width: 90%;
+        height: 50px;
+        margin-left: 20px;
+        margin-top: 20px;
+}
+
+.logout{
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+.editprofile{
+    height: 50px;
+    margin-top:70px;
+        margin-left: 20px;
+        width:90%
+        
+}
+
+.ion-padding5{
+    margin-top: 20px;
+}

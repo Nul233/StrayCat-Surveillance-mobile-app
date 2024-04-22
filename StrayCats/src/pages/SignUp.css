@@ -1,0 +1,32 @@
+.Name{
+    height: 50px;
+        margin-top: 250px;
+        margin-left: 5%;
+        width: 90%;
+
+}
+
+.Phone{
+    height: 50px;
+        margin-top: 20px;
+        margin-left: 5%;
+        width: 90%;
+}
+
+.Email{
+    height: 50px;
+        margin-top: 20px;
+        margin-left: 5%;
+        width: 90%;
+}
+
+
+.ion-no-padding{
+    margin-top: -77px;
+        margin-left: 270px;
+}
+
+.text1{
+    margin-left: 80px;
+        margin-top: 20px;
+}

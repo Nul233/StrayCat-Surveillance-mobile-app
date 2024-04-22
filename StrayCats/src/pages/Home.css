@@ -1,0 +1,34 @@
+.circle1 {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    height: 20%;
+    width: 50%;
+    border-bottom-left-radius: 100%;
+    background-color: #f30a0a;
+    background-image: linear-gradient(43deg, #f30a0a 0%, #0af3bd 46%, #c40af3 100%);
+}
+
+.circle2 {
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    height: 20%;
+    width: 50%;
+    border-top-right-radius: 100%;
+    background-color: #f30a0a;
+    background-image: linear-gradient(43deg, #f30a0a 0%, #0af3bd 46%, #c40af3 100%);
+
+}
+
+
+.button1 {
+    height: 50px;
+    margin-left: 0%;
+    margin-top: -90px;
+    width: 100%;
+}
+
+.img {
+    margin-top: 40%;
+}

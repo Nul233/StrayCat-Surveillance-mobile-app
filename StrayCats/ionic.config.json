@@ -1,0 +1,7 @@
+{
+  "name": "StrayCats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
